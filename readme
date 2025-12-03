@@ -15,7 +15,7 @@ Bybit Monitor (Go)
 - `/losers` — топ падінь
 
 Запуск
-1) Ініціалізуйте залежності (Windows PowerShell):
+1) Ініціалізуй залежності (Windows PowerShell):
 go mod tidy
 2) Встановіть токен бота Telegram в поточній сесії PowerShell:
 $env:TELEGRAM_TOKEN="токен_бота"
